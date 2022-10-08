@@ -16,5 +16,5 @@ Languages
 <a  target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 <a  target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 - 🔭 I’m currently working on Embeded Software.
-- 🌱 I’m currently learning Robotics, Computer Vision.
-- 🤔 I’m looking to research Pseudo Lidar
+- 🌱 I’m currently learning Computer Network in IoT
+- 🤔 I’m looking to research Matter IoT
