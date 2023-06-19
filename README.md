@@ -12,7 +12,7 @@ Platforms
 <a  target="_blank"><img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>  
 
 Languages  
-<a  target="_blank"><img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=C&logoColor=white"/></a>
+<a  target="_blank"><img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>
 <a  target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a  target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 <a  target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
